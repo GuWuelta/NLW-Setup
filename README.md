@@ -49,9 +49,7 @@
 
 <h1> <img width="2%" src="https://cdn.discordapp.com/attachments/1062571674286960680/1066461720475861002/quadrado.png" alt="logotipo pokebola"/> Referências </h1>
 
-<img src="https://cdn.discordapp.com/attachments/1062571674286960680/1066471537886113972/rocketseat.png" alt="logo da plataforma Rocketseat"/>
-<a href=""</a>
-https://www.rocketseat.com.br
+<a href="https://www.rocketseat.com.br"><img src="https://cdn.discordapp.com/attachments/1062571674286960680/1066471537886113972/rocketseat.png"></a>
 
 <hr>
 
@@ -64,8 +62,7 @@ https://www.rocketseat.com.br
 <br>
 
 <p align="center">
-    <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Imagem de uma Pokedex"/>
-    <img src="https://cdn.discordapp.com/attachments/1062571674286960680/1062591616797392946/pokedexgithub.png" alt="titulo PokeDex!" />
+    <img src="https://media.discordapp.net/attachments/1062571674286960680/1066473187086450768/Wallpaper_-_2560x1080.png?width=834&height=352" alt="Imagem de uma Pokedex"/>
     
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
    
