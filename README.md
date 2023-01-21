@@ -16,7 +16,7 @@
 
 <p> <b>Na plataforma é possível ver o andamento de todos os hábitos por cada dia do mês: </b> </p>
 <img src="https://media.discordapp.net/attachments/1062571674286960680/1066466405165309972/image.png?width=834&height=463" alt="tela inicial da plataforma"/>
-<p> <b>Cada quadrado representa um dia com hábitos cadastrados, e a sua cor varia de acordo com os hábitos completados... Os quadrados roxos simbolizam dias em que os hábitos foram 100% completados com sucesso! </b> </p>
+<p> <b>Cada quadrado representa um dia com hábitos cadastrados, e a sua cor varia de acordo com os hábitos completados... Os quadrados roxos simbolizam dias em que os hábitos foram 100% completados com sucesso </b> </p>
 
 <br>
 
@@ -25,7 +25,7 @@
 
 <br>
     
-<p> <b>Para registrar um novo hábito, basta selecionar a opção "Novo hábito" e inserir o hábito e qual será a sua recorrência: b> </p>
+<p> <b>Para registrar um novo hábito, basta selecionar a opção "Novo hábito" e inserir o hábito e qual será a sua recorrência: </p>
 <img src="https://media.discordapp.net/attachments/1062571674286960680/1066466746233520188/image.png" alt="janela para criar um novo hábito" />
 <br>
 <img width="30%" src="https://media.discordapp.net/attachments/1062571674286960680/1066466677803450498/image.png" alt="formulário de dados para criação de hábito preenchido" />
