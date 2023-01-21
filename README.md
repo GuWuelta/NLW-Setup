@@ -49,7 +49,7 @@
 
 <h1> <img width="2%" src="https://cdn.discordapp.com/attachments/1062571674286960680/1066461720475861002/quadrado.png" alt="logotipo pokebola"/> Referências </h1>
 
-<a href="https://www.rocketseat.com.br"><img src="https://cdn.discordapp.com/attachments/1062571674286960680/1066471537886113972/rocketseat.png"></a>
+<a href="https://www.rocketseat.com.br"><img width="160px" src="https://cdn.discordapp.com/attachments/1062571674286960680/1066471537886113972/rocketseat.png"></a>
 
 <hr>
 
